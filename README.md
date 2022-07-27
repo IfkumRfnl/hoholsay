@@ -7,3 +7,8 @@ cd hoholsay
 make
 sudo make install
 ```
+
+## Remove
+```bash
+sudo make remove
+```
