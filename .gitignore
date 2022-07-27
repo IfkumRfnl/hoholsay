@@ -1,5 +1,6 @@
 hoholsay
 Makefile.am
+Makefile
 configure.ac
 aclocal.m4
 config.log
