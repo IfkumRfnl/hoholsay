@@ -1,14 +1,1 @@
 hoholsay
-Makefile.am
-Makefile
-configure.ac
-aclocal.m4
-config.log
-main.o
-depcomp
-install-sh
-missing
-compile
-.deps/
-autom4te.cache
-config.status
