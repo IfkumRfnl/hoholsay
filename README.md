@@ -4,7 +4,7 @@ cowsay but better
 ```bash
 git clone https://github.com/IfkumRfnl/hoholsay.git
 cd hoholsay
-./config
+./configure
 make
 make install
 ```
