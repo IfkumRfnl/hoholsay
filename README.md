@@ -7,6 +7,10 @@ cd hoholsay
 make
 sudo make install
 ```
+## Usage
+```bash
+hoholsay <args>
+```
 
 ## Remove
 ```bash
