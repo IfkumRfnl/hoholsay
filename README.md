@@ -1,5 +1,15 @@
 # hoholsay
-cowsay but better
+```
+< cowsay but better >
+    \     ┏━╮╭━┓       
+     \    ┃┏┗┛┓┃      
+      \   ╰┓▋▋┏╯       
+         ╭━┻╮╲┗━━━━╮╭╮ 
+         ┃▎▎┃╲╲╲╲╲╲┣━╯ 
+         ╰━┳┻▅╯╲╲╲╲┃   
+           ╰━┳┓┏┳┓┏╯   
+             ┗┻┛┗┻┛ 
+```
 ## Build
 ```bash
 git clone https://github.com/IfkumRfnl/hoholsay.git
