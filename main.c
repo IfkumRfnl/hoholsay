@@ -17,7 +17,7 @@ int main(int argc, char* argv[]) {
 			c = getchar();
 		}
 		len = strlen(str);
-		str[len-1] = '\0';
+		if (str[len - 1] == '\n') str[len-1] = '\0';
 		printf("< %s ", str);
 		free(str);
 	}
